@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Katya",
+      "email": "email@email.com"
+    },
+    {
+      "name": "Joe",
+      "email": "joe@email.com",
+      "id": 3
+    },
+    {
+      "name": "Rebekah",
+      "email": "email2@email.com",
+      "id": 4
+    }
+  ],
+  "meals": [
+    {
+      "userId": 1,
+      "id": 1,
+      "mealDescription": "Eggs, milk, bacon, and a bagel",
+      "mealLocation": "Home",
+      "mealTime": "Breakfast",
+      "carbCount": 45,
+      "currentSugar": 200
+    }
+  ]
+}
